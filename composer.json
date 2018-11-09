@@ -1,0 +1,13 @@
+{
+  "name": "spryker-feature/product-bundles",
+  "description": "Product Bundles [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker-shop/product-bundle-widget": "^1.3.0",
+    "spryker/product-bundle": "^4.7.4"
+  }
+}
