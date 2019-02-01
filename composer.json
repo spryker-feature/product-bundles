@@ -9,5 +9,10 @@
     "spryker-feature/product": "^201902.0",
     "spryker-shop/product-bundle-widget": "^1.3.0",
     "spryker/product-bundle": "^4.7.5"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
