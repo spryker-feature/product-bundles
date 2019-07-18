@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201907.0",
     "spryker-shop/product-bundle-widget": "^1.3.1",
     "spryker/product-bundle": "^6.0.0"
   },
