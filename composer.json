@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201903.0",
     "spryker-shop/product-bundle-widget": "^1.3.1",
     "spryker/product-bundle": "^4.9.0"
   },
@@ -15,5 +14,8 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
