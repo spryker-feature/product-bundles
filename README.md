@@ -7,3 +7,12 @@ Tie individual items together and sell them as a package. Items in a bundle are 
 ```
 composer require spryker-feature/product-bundles
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/product](https://github.com/spryker-feature/product)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [CartNoteProductBundleConnector ^1.0.0](https://github.com/spryker/cart-note-product-bundle-connector) (Connector)
+- [ProductBundleProductListConnector ^1.0.0](https://github.com/spryker/product-bundle-product-list-connector) (Connector)
