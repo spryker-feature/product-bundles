@@ -1,23 +1,23 @@
 {
-  "name": "spryker-feature/product-bundles",
-  "description": "Product Bundles [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/product-bundle-widget": "^1.3.1",
-    "spryker-shop/sales-product-bundle-widget": "^1.0.0",
-    "spryker/product-bundle": "^7.7.0",
-    "spryker/product-bundle-storage": "^1.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/product-bundles",
+    "description": "Product Bundles [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/product-bundle-widget": "^1.3.1",
+        "spryker-shop/sales-product-bundle-widget": "^1.0.0",
+        "spryker/product-bundle": "^7.8.0",
+        "spryker/product-bundle-storage": "^1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
