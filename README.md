@@ -16,5 +16,6 @@ If you don't include the feature dependencies, make sure you use the respective 
 ## Optional modules
 - [CartNoteProductBundleConnector ^1.0.0](https://github.com/spryker/cart-note-product-bundle-connector) (Connector)
 - [ProductBundleCartsRestApi ^1.0.0](https://github.com/spryker/product-bundle-carts-rest-api) (Glue)
+- [ProductBundleDiscountConnector ^1.0.0](https://github.com/spryker/product-bundle-discount-connector) (Connector)
 - [ProductBundleProductListConnector ^1.0.0](https://github.com/spryker/product-bundle-product-list-connector) (Connector)
 - [ProductBundlesRestApi ^1.0.0](https://github.com/spryker/product-bundles-rest-api) (Glue)
