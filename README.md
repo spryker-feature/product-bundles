@@ -2,6 +2,8 @@
 
 Tie individual items together and sell them as a package. Items in a bundle are always sold together. Apply a special bundle price to make the purchase more attractive. Bundle availability is calculated and displayed based on the item with the smallest available stock to avoid overselling.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/product-bundles-feature-overview.html)
+
 ## Installation
 
 ```
