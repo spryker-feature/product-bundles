@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/product-bundle-widget": "^1.6.0",
+        "spryker-shop/product-bundle-widget": "^1.8.0",
         "spryker-shop/sales-product-bundle-widget": "^1.2.0",
-        "spryker/product-bundle": "^7.19.0",
+        "spryker/product-bundle": "^7.24.0",
         "spryker/product-bundle-storage": "^1.1.0"
     },
     "extra": {
