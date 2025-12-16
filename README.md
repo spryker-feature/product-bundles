@@ -16,8 +16,8 @@ composer require spryker-feature/product-bundles
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [CartNoteProductBundleConnector ^1.1.0](https://github.com/spryker/cart-note-product-bundle-connector) (Connector)
-- [ProductBundleCartsRestApi ^1.1.0](https://github.com/spryker/product-bundle-carts-rest-api) (Legacy Glue)
+- [CartNoteProductBundleConnector ^1.2.0](https://github.com/spryker/cart-note-product-bundle-connector) (Connector)
+- [ProductBundleCartsRestApi ^1.2.0](https://github.com/spryker/product-bundle-carts-rest-api) (Legacy Glue)
 - [ProductBundleDiscountConnector ^1.1.0](https://github.com/spryker/product-bundle-discount-connector) (Connector)
 - [ProductBundleProductListConnector ^1.0.0](https://github.com/spryker/product-bundle-product-list-connector) (Connector)
-- [ProductBundlesRestApi ^1.0.0](https://github.com/spryker/product-bundles-rest-api) (Legacy Glue)
+- [ProductBundlesRestApi ^1.1.0](https://github.com/spryker/product-bundles-rest-api) (Legacy Glue)
