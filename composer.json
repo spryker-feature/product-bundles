@@ -9,12 +9,12 @@
         "php": ">=8.2",
         "spryker-shop/product-bundle-widget": "^1.8.0",
         "spryker-shop/sales-product-bundle-widget": "^1.2.0",
-        "spryker/product-bundle": "^7.24.0",
-        "spryker/product-bundle-storage": "^1.1.0"
+        "spryker/product-bundle": "^7.27.0",
+        "spryker/product-bundle-storage": "^1.2.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
