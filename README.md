@@ -20,4 +20,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductBundleCartsRestApi ^1.3.0](https://github.com/spryker/product-bundle-carts-rest-api) (Legacy Glue)
 - [ProductBundleDiscountConnector ^1.1.0](https://github.com/spryker/product-bundle-discount-connector) (Connector)
 - [ProductBundleProductListConnector ^1.0.0](https://github.com/spryker/product-bundle-product-list-connector) (Connector)
-- [ProductBundlesRestApi ^1.1.0](https://github.com/spryker/product-bundles-rest-api) (Legacy Glue)
+- [ProductBundlesRestApi ^1.2.0](https://github.com/spryker/product-bundles-rest-api) (Legacy Glue)
